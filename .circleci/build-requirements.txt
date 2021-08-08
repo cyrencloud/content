@@ -1,3 +1,4 @@
+pipfile-requirements==0.3.0
 awscli==1.18.199
 slackclient==2.9.3
 pyspellchecker==0.6.2
