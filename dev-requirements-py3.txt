@@ -1,6 +1,7 @@
 flake8==3.9.2
 bandit==1.7.0
 demisto-py==3.0.2
+pipfile-requirements==0.3.0
 git+https://github.com/demisto/demisto-sdk.git@Requirements-To-Pipfiles
 pytest==6.2.1
 pytest-mock==3.4.0
@@ -21,4 +22,3 @@ coloredlogs==15.0
 pandas==1.2.0
 timeout-decorator==0.5.0
 sendgrid==6.6.0
-pipfile-requirements==0.3.0
